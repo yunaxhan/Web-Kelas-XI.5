@@ -6,12 +6,13 @@ import { getFirestore } from "firebase/firestore"
 import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "-",
-  authDomain: "-",
-  projectId: "+",
-  storageBucket: "-",
-  messagingSenderId: "", 
-  appId: ""
+  apiKey: "AIzaSyAFR5QZmkvgAFaTY1Ur3zCBtSzDphDavUw",
+  authDomain: "monitoring-app-cd60b.firebaseapp.com",
+  projectId: "monitoring-app-cd60b",
+  storageBucket: "monitoring-app-cd60b.appspot.com",
+  messagingSenderId: "69870051840",
+  appId: "1:69870051840:android:3bf2df3a8d15c73eb7aee5"
+};
 
 
 };
